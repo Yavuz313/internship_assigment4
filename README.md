@@ -1,6 +1,3 @@
-Certainly! Here's an expanded and properly formatted README template for your project in English:
-
----
 
 # City Navigation Simulator
 
@@ -48,7 +45,8 @@ Follow these steps to use the simulator:
 
 ## Screenshots
 
-Include screenshots demonstrating the simulator in action (if applicable).
+![Screenshot 2024-07-10 114155](https://github.com/Yavuz313/internship_assigment4/assets/117358777/3433cff0-93e1-442c-9244-1e0828983432)
+
 
 ## Contributing
 
@@ -58,6 +56,3 @@ Contributions are welcome! If you wish to contribute, please fork the repository
 
 This project is unlicensed. You are free to use and modify it as per your needs.
 
----
-
-Feel free to adjust the template further to better suit the specific details and nuances of your project. Each section is now clearly defined with headings and detailed explanations to provide comprehensive information for users.
